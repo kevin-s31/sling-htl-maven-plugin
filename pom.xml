@@ -296,9 +296,6 @@
                                             </limits>
                                         </rule>
                                     </rules>
-                                    <excludes>
-                                        <exclude>org/apache/sling/maven/htl/HelpMojo.class</exclude>
-                                    </excludes>
                                 </configuration>
                             </execution>
                         </executions>
