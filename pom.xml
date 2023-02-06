@@ -21,7 +21,7 @@
         <groupId>org.apache.sling</groupId>
         <artifactId>sling</artifactId>
         <version>46</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <artifactId>htl-maven-plugin</artifactId>
@@ -52,10 +52,10 @@
         <project.build.outputTimestamp>2021-10-05T09:32:41Z</project.build.outputTimestamp>
         <site.jira.version.id>12336741,12338350,12338646,12338974,12341271,12342047,12342267,12342272,12343462,
             12343846,12344079,12344332,12344876,12345571,12346551,12346590,12346596,12348677,12348837</site.jira.version.id>
-        <maven.version>3.3.9</maven.version>
+        <maven.version>3.9.0</maven.version>
         <maven.site.path>${project.artifactId}-archives/${project.artifactId}-LATEST</maven.site.path>
         <sightly.runtime.version>1.2.6-1.4.0</sightly.runtime.version>
-        <argLine />
+        <argLine/>
         <!-- the github id used for the ribbon for Maven sites: https://maven.apache.org/skins/maven-fluido-skin/#GitHub_ribbons -->
         <github.project.id>apache/sling-htl-maven-plugin</github.project.id>
     </properties>
